@@ -49,7 +49,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="container">
         <h2>Contrato de Loteria</h2>
         <p>
           Esse contrato é gerido por {this.state.manager}.
