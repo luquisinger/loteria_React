@@ -1,1 +1,4 @@
-# DAPP totalmente funcional utilizando solidity e React. 
+# DAPP 
+Site totalmente funcional utilizando solidity e React.
+
+O contrato inteligente está na testenet Sepoia.
